@@ -1,8 +1,8 @@
 {
-    "owner": {
-        "username": "amanycham"
-    },
-    "records": {
-        "CNAME": "https://is-a-dev-test.pages.dev/"
-    }
+  "owner": {
+    "username": "amanycham"
+  },
+  "records": {
+    "CNAME": "is-a-dev-test.pages.dev"
+  }
 }
